@@ -19,6 +19,12 @@ const projects = [
     demo: "https://add-product-hazel.vercel.app/",
     code: "https://github.com/mohanedashraf047-lab/addProduct.git",
   },
+  {
+    title: "My Portfolio",
+    desc: "A portfolio website built with React, Vite, React-Router, and Tailwind CSS.",
+    demo: "https://my-portfolio-two-indol-76.vercel.app/",
+    code: "https://github.com/mohanedashraf047-lab/myPortfolio.git",
+  },
 ];
 
 const Projects = () => {
