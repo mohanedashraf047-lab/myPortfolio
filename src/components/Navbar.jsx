@@ -22,7 +22,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href="src\assets\MohanedAshraf_CV.pdf"
+              href="public\MohanedAshraf_CV.pdf"
               download
               className="bg-cyan-500 px-3 py-1 rounded hover:bg-cyan-400 duration-300"
             >
