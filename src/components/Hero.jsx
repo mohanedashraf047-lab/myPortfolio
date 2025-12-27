@@ -32,6 +32,7 @@ const Hero = () => {
             href="public\MohanedAshraf_CV.pdf"
             download
             className="border border-cyan-500 px-4 py-2 rounded hover:bg-cyan-500 hover:text-black duration-300 text-sm sm:text-base"
+            target="_blank" rel="noopener noreferrer"
           >
             Download CV
           </a>
